@@ -2,3 +2,4 @@
 
 ceci est exemple de referentiel de projet pour le cours DO400
 
+ceci est un exemple
