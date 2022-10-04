@@ -2,4 +2,4 @@
 
 ceci est exemple de referentiel de projet pour le cours DO400
 
-ceci est uniquement un test
+ceci est uniquement un exemple de test
